@@ -1,0 +1,15 @@
+{
+  "name": "blockopoly",
+  "version": "2.0.0",
+  "description": "A Truffle box containing all you need to get started with Blockopoly tutorial",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/solangegueiros/blockopoly-box.git"
+  },  
+  "keywords": ["blockchain", "smart contracts", "ethereum", "truffle", "truffle box"],
+  "author": "Microsoft", 
+  "contributors": [
+    "Solange Gueiros <solangegueiros@gmail.com> (https://solange.dev)"
+  ],
+  "license": "MIT"
+}
